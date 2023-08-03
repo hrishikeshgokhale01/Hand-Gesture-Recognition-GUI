@@ -23,6 +23,6 @@ pip install opencv-python mediapipe tensorflow tkinter
 3. Run the Application: Run the Python script containing the HandGestureRecognitionApp class.
 4. Start Recognition: Click the "Start" button to start the gesture recognition process. The program will capture the video from the webcam and begin recognizing hand gestures.
 5. Stop Recognition: Click the "Stop" button to stop the recognition process. The video stream will freeze, and the gesture recognition will pause.
-6. Gesture and Finger Status: The detected hand gesture will be displayed on the video stream. Additionally, the status bar under the video streams will show the current gesture recognized and the status of each finger (1 when extended, 0 when not extended).
+6. Gesture and Finger Status: The detected hand gesture will be displayed on the video stream. Additionally, the status bar under the video streams will show the current gesture recognized.
 
 The project uses TechVidvan's tutorial as a starting point (https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/).
